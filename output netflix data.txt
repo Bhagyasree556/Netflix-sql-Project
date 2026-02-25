@@ -1,0 +1,28 @@
+1."TV Show":2676
+"Movie"	:6131
+
+2.
+"Movie":"TV-MA"
+"TV Show":"TV-MA"
+
+3. all movies,tv shows realesed in 2020 will be displayed
+
+4.
+"United States"	3690
+"India"	1046
+"United Kingdom"	806
+"Canada"	445
+"France"	393
+
+5. longest movie is displayed
+
+6.
+content added in 5 years will be displayed
+7.
+movies and tv shows directed by Rajiv Chilaka will be displayed
+15.
+good and bad movies are classified and also tv shows
+"Good"	"Movie"	5880
+"Bad"	"Movie"	251
+"Good"	"TV Show"	2585
+"Bad"	"TV Show"	91
